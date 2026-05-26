@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productpync",
+        "uuid": 233530,
+        "checksum": "wd9nya"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
